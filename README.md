@@ -19,4 +19,4 @@ install them using `bundle install`.
 ## Running
 
 You can run the application in your terminal (using puma) as follows:
-`bundle exec puma`
+`bundle exec puma -C puma.rb`
